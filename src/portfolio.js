@@ -392,5 +392,5 @@ export {
   podcastSection,
   contactInfo,
   twitterDetails,
-  isHireable
+  //isHireable
 };
