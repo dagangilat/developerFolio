@@ -364,8 +364,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+972-54-697-6523",
-  email_address: "dagan.gilat0@gmail.com",
-  display: false
+  email_address: "dagan.gilat0@gmail.com"
 };
 
 // Twitter Section
@@ -375,7 +374,7 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
