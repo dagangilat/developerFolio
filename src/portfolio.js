@@ -364,7 +364,8 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+972-54-697-6523",
-  email_address: "dagan.gilat0@gmail.com"
+  email_address: "dagan.gilat0@gmail.com",
+  display: false
 };
 
 // Twitter Section
