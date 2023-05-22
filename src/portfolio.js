@@ -38,7 +38,7 @@ const socialMediaLinks = {
   gmail: "dagan.gilat@gmail.com",
   //gitlab: "https://gitlab.com/dagangilat",
   //facebook: "https://www.facebook.com/dagan.gilat",
-  medium: "https://medium.com/@dagan.gilat",
+  // medium: "https://medium.com/@dagan.gilat",
   //stackoverflow: "https://stackoverflow.com/users/...",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
