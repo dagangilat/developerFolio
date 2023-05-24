@@ -364,7 +364,8 @@ const contactInfo = {
   title: emoji('Contact Me ☎️'),
   subtitle: 'Discuss a project ? My Inbox is open for all.',
   number: '+972-54-697-6523',
-  email_address: 'dagan.gilat0@gmail.com'
+  email_address: 'dagan.gilat0@gmail.com',
+  display: false
 };
 
 
