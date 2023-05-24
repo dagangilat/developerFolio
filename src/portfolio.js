@@ -56,7 +56,7 @@ const skillsSection = {
     ),
     emoji("⚡ Interested and research architectures such as microserces, web3, serverless"),
     emoji(
-      "⚡ Integration of third party cloud services such as AWS / GCP /Azure"
+      "⚡ Integration of cloud services such as AWS / GCP /Azure"
     )
   ],
 
@@ -359,6 +359,7 @@ const podcastSection = {
   display: false // Set false to hide this section, defaults to true
 };
 
+
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project ? My Inbox is open for all.",
@@ -366,8 +367,8 @@ const contactInfo = {
   email_address: "dagan.gilat0@gmail.com"
 };
 
-// Twitter Section
 
+// Twitter Section
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
   display: false // Set true to display this section, defaults to false
