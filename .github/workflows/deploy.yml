@@ -4,7 +4,11 @@ env:
   GITHUB_USERNAME: ${{ github.repository_owner }}
   REACT_APP_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This is automatically set by Github Actions
   USE_GITHUB_DATA: "true"
+<<<<<<< HEAD
   MEDIUM_USERNAME: "dagangilat" # Change this to your medium username
+=======
+  MEDIUM_USERNAME: "dagan.gilat" # Change this to your medium username
+>>>>>>> c7499a8c0025d4e0ba3da123bfd5e9f063cde91f
 on:
   push:
     branches:
