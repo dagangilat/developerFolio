@@ -105,13 +105,9 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "gcp",
-      fontAwesomeClassname: "fab fa-gcp"
-    },
-    {/*
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
-    */},
+    },
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
