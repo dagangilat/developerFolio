@@ -88,7 +88,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {/*
+    {/* 
       skillName: "swift",
       fontAwesomeClassname: "fab fa-swift"
     */},
