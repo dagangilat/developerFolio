@@ -80,18 +80,18 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
-    {
+    {/*
       skillName: "reactjs",
       fontAwesomeClassname: "fab fa-react"
-    },
+    */},
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
+    {/*
       skillName: "swift",
       fontAwesomeClassname: "fab fa-swift"
-    },
+    */},
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -105,9 +105,13 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
+      skillName: "gcp",
+      fontAwesomeClassname: "fab fa-gcp"
+    },
+    {/*
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
-    },
+    */},
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
