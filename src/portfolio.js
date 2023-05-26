@@ -51,13 +51,8 @@ const skillsSection = {
   title: "What I do",
   subTitle: "",
   skills: [
-    emoji(
-      "⚡ Develops highly scalable backends and APIs using Go and Rust"
-    ),
-    emoji("⚡ Interested and research architectures such as microserces, web3, serverless"),
-    emoji(
-      "⚡ Integration of cloud services such as AWS / GCP /Azure"
-    )
+    emoji("⚡ Develops highly scalable backends and APIs using Go and Rust"),
+    emoji("⚡ Interested and research architectures such as microserces, web3, cloud"),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -158,7 +153,7 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "80%"
+      progressPercentage: "85%"
     },
     {
       Stack: "Programming",
@@ -212,8 +207,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "Some Tech that I helped to build",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
