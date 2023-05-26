@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Architect, Software Developer 🚀 "
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1Y4Odu9ndkUoRR99kBqONDNKeWvXj5wmD/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://github.com/dagangilat/developerFolio/blob/master/Dagan-Gilat-Resume.pdf",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
