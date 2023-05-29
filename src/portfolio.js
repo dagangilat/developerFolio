@@ -48,7 +48,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "About me",
+  title: "What I do",
   subTitle: "",
   skills: [
     emoji("⚡ Experienced hands-on R&D leader"),
