@@ -23,7 +23,7 @@ const greeting = {
   username: "Dagan Gilat",
   title: "Hi there, I'm Dagan",
   subTitle: emoji(
-    "Architect, Software Developer 🚀 "
+    "Researcher, Architect, Software Developer 🚀 "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1Y4Odu9ndkUoRR99kBqONDNKeWvXj5wmD/view?usp=sharing", // Set to empty to hide the button
@@ -147,6 +147,10 @@ const educationInfo = {
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
+    {
+      Stack: "Research", //Insert stack or technology you have experience in
+      progressPercentage: "95%" //Insert relative proficiency in percentage
+    },
     {
       Stack: "Architecture / Design", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
@@ -353,7 +357,6 @@ const podcastSection = {
   ],
   display: false // Set false to hide this section, defaults to true
 };
-
 
 const contactInfo = {
   title: emoji('Contact Me ☎️'),
