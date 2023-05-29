@@ -48,11 +48,13 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
+  title: "About me",
   subTitle: "",
   skills: [
-    emoji("⚡ Develops highly scalable backends and APIs using Go and Rust"),
-    emoji("⚡ Interested and research architectures such as microserces, web3, cloud"),
+    emoji("⚡ Experienced hands-on R&D leader"),
+    emoji("⚡ Lead end to end software products from inception to prototype, design, implementation, deployment, and operation"),
+    emoji("⚡ Developed scalable & resilient systems, employing cutting edge technologies in Distributed Systems, Cloud, and Machine Learning"),
+    emoji("⚡ Special interest and focus in Microservices architecture and patterns, and the Go and Rust programming languages.")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
