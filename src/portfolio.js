@@ -210,8 +210,8 @@ const openSource = {
   display: true // Set false to hide this section, defaults to true
 };
 
-// Some big projects you have worked on
 
+// Some big projects you have worked on
 const bigProjects = {
   title: "Projects",
   subtitle: "Some Tech that I helped to build",
