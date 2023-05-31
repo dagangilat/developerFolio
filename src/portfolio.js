@@ -318,21 +318,21 @@ const achievementSection = {
       footerLink: [
       {
         name: 
-        "3rd Plateau Invention Achievement Award",
+        "Invention Achievement Award",
         url: ""
       },
     ]
    },
 
     {
-      title: "Outstanding Technical Achievement Award",
+      title: "Optimization Outstanding Technical Achievement Award",
       subtitle: "",
       image: require("./assets/images/IBM_Research.png"),
       imageAlt: "Awards",
       footerLink: [
       {
         name: 
-        "Outstanding Technical Achievement Award for substantial contributions to Business Optimization area",
+        "Major Contributions",
         url: ""
       },
     ]
