@@ -298,23 +298,41 @@ Publications
 •	A Methodological Framework for Business-Oriented Modeling of IT Infrastructure. Winter Simulation Conference 2004: 474
 Inference of Reactive Rules from Dependency Models. RuleML 2003: 49-64
 
+- 3rd Plateau Invention Achievement Award
+- Outstanding Technical Achievement Award in appreciation for substantial contributions to Business Optimization area
+- Ovation Award in appreciation for contribution for the Massive Collection System for Revenue Assurance 
+- Award in appreciation for contribution for the empty container repositioning optimization solution 
+- Outstanding Technical Achievement Award in appreciation for substantial contributions to the architecture, the ADI technology and the innovation in the e-Business Management services offering
 
 */
-
 
 const achievementSection = {
   title: "Awards, Patents & Papers 🏆 ",
   subtitle: "",
   achievementsCards: [
     {
-      title: "Awards",
+      title: "3rd Plateau Invention Achievement Award",
       subtitle: "",
       image: require("./assets/images/award-logo.png"),
+      imageAlt: "3rd Plateau Invention Achievement Award",
+      footerLink: [
+      {
+        name: 
+        "3rd Plateau Invention Achievement Award",
+        url: ""
+      },
+    ]
+   },
+
+    {
+      title: "Outstanding Technical Achievement Award",
+      subtitle: "",
+      image: require("./assets/images/IBM_Research.png"),
       imageAlt: "Awards",
       footerLink: [
       {
         name: 
-        "- Research Division Award for OpenStack Pioneers: Key Contributions to the OpenStack <br/> - 3rd Plateau Invention Achievement Award <br/> - Outstanding Technical Achievement Award in appreciation for substantial contributions to Business Optimization area <br/> - Ovation Award in appreciation for contribution for the Massive Collection System for Revenue Assurance - Award in appreciation for contribution for the empty container repositioning optimization solution - Outstanding Technical Achievement Award in appreciation for substantial contributions to the architecture, the ADI technology and the innovation in the e-Business Management services offering <br/>",
+        "Outstanding Technical Achievement Award for substantial contributions to Business Optimization area",
         url: ""
       },
     ]
@@ -346,6 +364,9 @@ const achievementSection = {
 ],
   display: true // Set false to hide this section, defaults to true
 };
+
+// - 3rd Plateau Invention Achievement Award
+// - Outstanding Technical Achievement Award in appreciation for substantial contributions to Business Optimization area
 
 // Blogs Section
 
