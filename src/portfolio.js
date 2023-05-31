@@ -311,6 +311,19 @@ const achievementSection = {
   subtitle: "",
   achievementsCards: [
     {
+      title: "Filed 15 USA Patents",
+      subtitle: "",
+      image: require("./assets/images/Google_Patents_Logo.png"),
+      imageAlt: "Patents",
+      footerLink: [
+      {
+        name: "Dagan Gilat US Patents",
+        url: "https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat"
+      },
+    ]
+   },
+
+    {
       title: "3rd Plateau Invention Achievement Award",
       subtitle: "",
       image: require("./assets/images/award-logo.png"),
@@ -337,18 +350,6 @@ const achievementSection = {
       },
     ]
    },
-    {
-      title: "Filed 15 USA Patents",
-      subtitle: "",
-      image: require("./assets/images/Google_Patents_Logo.png"),
-      imageAlt: "Patents",
-      footerLink: [
-      {
-        name: "Dagan Gilat US Patents",
-        url: "https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat"
-      },
-    ]
-   },
    {
       title: "Published Papers",
       subtitle: "",
@@ -364,9 +365,6 @@ const achievementSection = {
 ],
   display: true // Set false to hide this section, defaults to true
 };
-
-// - 3rd Plateau Invention Achievement Award
-// - Outstanding Technical Achievement Award in appreciation for substantial contributions to Business Optimization area
 
 // Blogs Section
 
