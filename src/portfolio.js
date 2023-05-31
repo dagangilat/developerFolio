@@ -257,22 +257,23 @@ the ADI technology and the innovation in the e-business management services offe
 */
 
 const achievementSection = {
-  title: emoji("Awards, Papers & Patents 🏆 "),
+  title: "Awards, Papers & Patents 🏆 ",
   subtitle: "",
-  achievementsCards: {
+  achievementsCards: [
+    {
       title: "Filed 15 USA Patents",
       subtitle: "",
       image: require("./assets/images/googlelogo_color_272x92dp.png"),
-      imageAlt: "Patents Logo",
+      imageAlt: "Patents",
       footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Dagan Gilat US Patents",
-          url: "https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat"
-        }
-      ]
-    },
-  display: false // Set false to hide this section, defaults to true
+      {
+        name: "Dagan Gilat US Patents",
+        url: "https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat"
+      },
+   ]
+  },
+],
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
