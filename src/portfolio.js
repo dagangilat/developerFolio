@@ -254,21 +254,79 @@ Optimization area,
 - 2006, Award in appreciation for contribution for the empty container repositioning optimization solution
 - 2002, Outstanding Technical Achievement Award in appreciation for substantial contributions to the architecture,
 the ADI technology and the innovation in the e-business management services offering
+- Patents: https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat
+- Papers: https://scholar.google.com/scholar?hl=iw&as_sdt=0%2C5&q=Dagan+Gilat&btnG=
+Awards
+•	Research Division Award for OpenStack Pioneers: Key Contributions to the Open Cloud Movement, March 2014
+•	3rd Plateau Invention Achievement Award, January 2010
+•	Outstanding Technical Achievement Award in appreciation for substantial contributions to Business Optimization area, April 2008
+•	Ovation Award in appreciation for contribution for the Massive Collection System (MCS) for Revenue Assurance, February 2007
+•	Research Division Technical Group Award for contribution to the MDBT CEO Milestone accomplishment, June 2006
+•	Ovation Award in appreciation for contribution for the empty container repositioning optimization solution for shipping companies, January 2006
+•	Outstanding Technical Achievement Award in appreciation for substantial contributions to the architecture, the ADI technology and the innovation in the e-business management services offering, January 2002
+
+Patents
+•	IL8-2009-0157:  Social Modeling of Processes
+•	IL8-2009-0106: Optimization of Workforce Scheduling and Capacity Planning
+•	IL8-2009-0145: A Scheduler for Highly Parallel Jobs with Global Interdependencies
+•	IL8-2008-0472: Duplicate Filtering in a Data Processing Environment
+•	IL9-2008-0210: Business Process Automatic Creation through Analytical KPI Optimization
+•	IL8-2008-0483: Resource Optimization for Real-time Task Assignment in Multi-Process Environments
+•	IL8-2007-0135: Device, System and Method of Collaborative Distribution of Digital Merchandise
+•	IL8-2007-0246: Device, System, and Method of Generating Location-Based Social Networks
+•	IL8-2006-0029:  Method and Computer Program Product for Modeling an Organization
+•	IL9-2005-0053: Device, Method and Computer Program Product for Determining an Importance of Multiple Business Entities
+•	IL8-2005-0028: Device, Method and Computer Program Product for monitoring a group of entities
+•	IL9-2005-0053: Device, Method and Computer Program Product for Determining an Importance of Multiple Business Entities
+•	IL8- 2002-0069:  Method and System for Active Monitoring of dependency Models
+•	IL8-2004-0070 Framework for Automatic Generation of Hybrid Performance Models
+•	IL8-2003-0007: Method and System for Automatic Continuous Monitoring and On-Demand Optimization of Business IT Infrastructure According to Business Objectives
+
+Publications
+•	Autoscaler – Machine Learning Based Cloud Autoscaling, 2017 (submission in progress)
+•	Creating operational shift schedules for third-level IT support: challenges, models and case study, International Journal of Services Operations and Informatics, Inderscience, 2008.
+•	A top-down approach to aligning business service centers with business processes. International Journal of Services Operations and Informatics, Inderscience, 2008.
+•	Shift Scheduling for Third Level IT Support: Challenges, Models and Case Study, INFORMS 2007
+•	Calculating the Business Importance of Entities in a Service-Oriented Enterprise. IEEE SCC 2007: 717-718
+•	Modeling and Monitoring Dynamic Dependency Environments. IEEE SCC 2005: 208-216 
+•	INFORMS 2005: LPS (Logistics Planning System) for Empty Containers
+•	INFORMS 2005: SWOPS – A General Shift Work Optimized Planning & Scheduling Tool. 
+•	Reactive Rules-Based Dependency Resolution for Monitoring Dynamic Environments. RuleML 2005: 71-83
+•	Autonomic Self-Optimization According to Business Objectives. ICAC 2004: 206-213
+•	Reactive rules inference from dynamic dependency models. WWW (Alternate Track Papers & Posters) 2004: 232-233
+•	Business objective based resource management. WWW (Alternate Track Papers & Posters) 2004: 236-237 
+•	A Methodological Framework for Business-Oriented Modeling of IT Infrastructure. Winter Simulation Conference 2004: 474
+Inference of Reactive Rules from Dependency Models. RuleML 2003: 49-64
+
+
 */
+
 
 const achievementSection = {
   title: "Awards, Papers & Patents 🏆 ",
   subtitle: "",
   achievementsCards: [
     {
-      title: "Filed 15 USA Patents",
+      title: "Filed USA Patents",
       subtitle: "",
-      image: require("./assets/images/googlelogo_color_272x92dp.png"),
+      image: require("./assets/images/Google_Patents_Logo.png"),
       imageAlt: "Patents",
       footerLink: [
       {
         name: "Dagan Gilat US Patents",
         url: "https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat"
+      },
+   ]
+  },
+    {
+      title: "Published Papers",
+      subtitle: "",
+      image: require("./assets/images/Google_Scholar_Logo.png"),
+      imageAlt: "Papers",
+      footerLink: [
+      {
+        name: "Dagan Gilat Publications",
+        url: "https://scholar.google.com/scholar?hl=iw&as_sdt=0%2C5&q=Dagan+Gilat&btnG="
       },
    ]
   },
