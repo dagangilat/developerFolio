@@ -259,22 +259,7 @@ the ADI technology and the innovation in the e-business management services offe
 const achievementSection = {
   title: emoji("Awards, Papers & Patents 🏆 "),
   subtitle: "",
-
-  achievementsCards: [
-    {
-      title: "Outstanding Technical Achievement Award",
-      subtitle:
-        " In appreciation for substantial contributions to Business Optimization area",
-      image: require("./assets/images/"),
-      imageAlt: "Outstanding Technical Achievement Award",
-      footerLink: [
-        {
-          name: "",
-          url: ""
-        }
-      ]
-    },
-    {
+  achievementsCards: {
       title: "Filed 15 USA Patents",
       subtitle: "",
       image: require("./assets/images/googlelogo_color_272x92dp.png"),
@@ -286,8 +271,7 @@ const achievementSection = {
           url: "https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat"
         }
       ]
-    }
-  ],
+    },
   display: true // Set false to hide this section, defaults to true
 };
 
