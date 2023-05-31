@@ -46,7 +46,6 @@ const socialMediaLinks = {
 };
 
 // Skills Section
-
 const skillsSection = {
   title: "What I do",
   subTitle: "",
@@ -143,7 +142,7 @@ const educationInfo = {
   ]
 };
 
-// Your top 3 proficient stacks/tech experience
+// Your top 4 proficient stacks/tech experience
 
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
@@ -244,63 +243,52 @@ const bigProjects = {
 
 // Achievement Section
 // Include certificates, talks etc
+/*
+Awards & Patents
+- Filed 15 patents.
+- 2014, Research Division Award for OpenStack Pioneers: Key Contributions to the OpenStack
+- 2010, 3rd Plateau Invention Achievement Award
+- 2008, Outstanding Technical Achievement Award in appreciation for substantial contributions to Business
+Optimization area,
+- 2007, Ovation Award in appreciation for contribution for the Massive Collection System for Revenue Assurance
+- 2006, Award in appreciation for contribution for the empty container repositioning optimization solution
+- 2002, Outstanding Technical Achievement Award in appreciation for substantial contributions to the architecture,
+the ADI technology and the innovation in the e-business management services offering
+*/
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
-  subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  title: emoji("Awards, Papers & Patents 🏆 "),
+  subtitle: "",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Outstanding Technical Achievement Award",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        " In appreciation for substantial contributions to Business Optimization area",
+      image: require("./assets/images/"),
+      imageAlt: "Outstanding Technical Achievement Award",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "",
+          url: ""
         }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "Filed 15 USA Patents",
+      subtitle: "",
+      image: require("./assets/images/googlelogo_color_272x92dp.png"),
+      imageAlt: "Patents Logo",
       footerLink: [
         {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Dagan Gilat US Patents",
+          url: "https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat"
         }
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
