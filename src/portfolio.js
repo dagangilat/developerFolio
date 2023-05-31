@@ -303,11 +303,24 @@ Inference of Reactive Rules from Dependency Models. RuleML 2003: 49-64
 
 
 const achievementSection = {
-  title: "Awards, Papers & Patents 🏆 ",
+  title: "Awards, Patents & Papers 🏆 ",
   subtitle: "",
   achievementsCards: [
     {
-      title: "Filed USA Patents",
+      title: "Awards",
+      subtitle: "",
+      image: require("./assets/images/award-logo.png"),
+      imageAlt: "Awards",
+      footerLink: [
+      {
+        name: 
+        "- Research Division Award for OpenStack Pioneers: Key Contributions to the OpenStack <br/> - 3rd Plateau Invention Achievement Award <br/> - Outstanding Technical Achievement Award in appreciation for substantial contributions to Business Optimization area <br/> - Ovation Award in appreciation for contribution for the Massive Collection System for Revenue Assurance - Award in appreciation for contribution for the empty container repositioning optimization solution - Outstanding Technical Achievement Award in appreciation for substantial contributions to the architecture, the ADI technology and the innovation in the e-Business Management services offering <br/>",
+        url: ""
+      },
+    ]
+   },
+    {
+      title: "Filed 15 USA Patents",
       subtitle: "",
       image: require("./assets/images/Google_Patents_Logo.png"),
       imageAlt: "Patents",
@@ -316,9 +329,9 @@ const achievementSection = {
         name: "Dagan Gilat US Patents",
         url: "https://patents.google.com/?inventor=Dagan+Gilat&oq=Dagan+Gilat"
       },
-   ]
-  },
-    {
+    ]
+   },
+   {
       title: "Published Papers",
       subtitle: "",
       image: require("./assets/images/Google_Scholar_Logo.png"),
@@ -328,8 +341,8 @@ const achievementSection = {
         name: "Dagan Gilat Publications",
         url: "https://scholar.google.com/scholar?hl=iw&as_sdt=0%2C5&q=Dagan+Gilat&oq="
       },
-   ]
-  },
+     ]
+    },
 ],
   display: true // Set false to hide this section, defaults to true
 };
