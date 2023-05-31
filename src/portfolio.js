@@ -326,7 +326,7 @@ const achievementSection = {
       footerLink: [
       {
         name: "Dagan Gilat Publications",
-        url: "https://scholar.google.com/scholar?hl=iw&as_sdt=0%2C5&q=Dagan+Gilat&btnG="
+        url: "https://scholar.google.com/scholar?hl=iw&as_sdt=0%2C5&q=Dagan+Gilat&oq="
       },
    ]
   },
