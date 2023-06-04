@@ -151,7 +151,7 @@ const techStack = {
       progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Architecture / Design", //Insert stack or technology you have experience in
+      Stack: "Architecture & Design", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
@@ -159,7 +159,7 @@ const techStack = {
       progressPercentage: "90%"
     },
     {
-      Stack: "Programming",
+      Stack: "Software Development",
       progressPercentage: "85%"
     }
   ],
