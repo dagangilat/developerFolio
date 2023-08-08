@@ -109,6 +109,34 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "GCP",
+      fontAwesomeClassname: "fab fa-google"
+    },
+    {
+      skillName: "Microsoft Azure",
+      fontAwesomeClassname: "fab fa-microsoft"
+    },
+    {
+      skillName: "Go",
+      fontAwesomeClassname: "fab fa-go"
+    },
+    {
+      skillName: "Rust",
+      fontAwesomeClassname: "fab fa-rust"
+    },
+    {
+      skillName: "Elixir",
+      fontAwesomeClassname: "fab fa-elixir"
+    },
+    {
+      skillName: "REST API",
+      fontAwesomeClassname: "fab fa-rss"
+    },
+    {
+      skillName: "gRPC",
+      fontAwesomeClassname: "fab fa-gripfire"
     }
   ],
   display: true // Set false to hide this section, defaults to true
