@@ -120,6 +120,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Go",
+      FontAwesomeIcon: icon={faGolang}, size: "2xs",
       fontAwesomeClassname: "fab fa-golang"
     },
     {
