@@ -120,24 +120,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Go",
-      FontAwesomeIcon: icon={faGolang}, size: "2xs",
-      fontAwesomeClassname: "fab fa-golang"
+      fontAwesomeClassname: "fa-brands fa-golang"
     },
     {
       skillName: "Rust",
       fontAwesomeClassname: "fab fa-rust"
-    },
-    {
-      skillName: "Elixir",
-      fontAwesomeClassname: "fab fa-elixir"
-    },
-    {
-      skillName: "REST API",
-      fontAwesomeClassname: "fab fa-rss"
-    },
-    {
-      skillName: "gRPC",
-      fontAwesomeClassname: "fab fa-gripfire"
     }
   ],
   display: true // Set false to hide this section, defaults to true
