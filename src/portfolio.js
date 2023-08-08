@@ -59,52 +59,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {/* 
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    */},
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "docker",
@@ -115,16 +71,36 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-google"
     },
     {
-      skillName: "Microsoft Azure",
-      fontAwesomeClassname: "fab fa-microsoft"
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "Go",
-      fontAwesomeClassname: "fa-brands fa-golang"
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
+    },
+    {
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm"
+    },
+    {
+      skillName: "html-5",
+      fontAwesomeClassname: "fab fa-html5"
     },
     {
       skillName: "Rust",
       fontAwesomeClassname: "fab fa-rust"
+    },
+    {
+      skillName: "sass",
+      fontAwesomeClassname: "fab fa-sass"
+    },
+    {
+      skillName: "sql-database",
+      fontAwesomeClassname: "fas fa-database"
     }
   ],
   display: true // Set false to hide this section, defaults to true
