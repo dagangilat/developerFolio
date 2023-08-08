@@ -27,7 +27,7 @@ const greeting = {
     "Researcher, Architect, Software Developer 🚀 "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Y4Odu9ndkUoRR99kBqONDNKeWvXj5wmD/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1TsDBxlWAyHT-bsrMlk4vW475yUP5QXAs/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -47,7 +47,7 @@ const socialMediaLinks = {
 
 // Skills Section
 const skillsSection = {
-  title: "What I do",
+  title: "Tech Stack that I Use",
   subTitle: "",
   skills: [
     emoji("⚡ Experienced hands-on R&D leader."),
