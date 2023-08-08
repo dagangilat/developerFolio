@@ -120,7 +120,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Go",
-      fontAwesomeClassname: "fab fa-go"
+      fontAwesomeClassname: "fab fa-golang"
     },
     {
       skillName: "Rust",
