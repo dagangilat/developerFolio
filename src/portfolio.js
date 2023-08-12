@@ -302,21 +302,6 @@ const achievementSection = {
       },
     ]
    },
-
-    {
-      title: "3rd Plateau Invention Achievement Award",
-      subtitle: "",
-      image: require("./assets/images/award-logo.png"),
-      imageAlt: "3rd Plateau Invention Achievement Award",
-      footerLink: [
-      {
-        name: 
-        "Invention Achievement Award",
-        url: ""
-      },
-    ]
-   },
-
     {
       title: "Optimization Outstanding Technical Achievement Award",
       subtitle: "",
