@@ -302,19 +302,6 @@ const achievementSection = {
       },
     ]
    },
-    /*{
-      title: "Optimization Outstanding Technical Achievement Award",
-      subtitle: "",
-      image: require("./assets/images/IBM_Research.png"),
-      imageAlt: "Awards",
-      footerLink: [
-      {
-        name: 
-        "Major Contributions",
-        url: ""
-      },
-    ]
-   },*/
    {
       title: "Published Papers",
       subtitle: "",
