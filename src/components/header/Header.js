@@ -7,7 +7,6 @@ import {
   greeting,
   workExperiences,
   skillsSection,
-  //openSource,
   blogSection,
   talkSection,
   achievementSection
@@ -47,11 +46,6 @@ function Header() {
           {viewExperience && (
             <li>
               <a href="#experience">Work Experiences</a>
-            </li>
-          )}
-          {viewOpenSource && (
-            <li>
-              <a href="#opensource">Open Source</a>
             </li>
           )}
           {viewAchievement && (
