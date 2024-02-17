@@ -407,7 +407,6 @@ export {
   educationInfo,
   techStack,
   workExperiences,
-  openSource,
   bigProjects,
   achievementSection,
   blogSection,

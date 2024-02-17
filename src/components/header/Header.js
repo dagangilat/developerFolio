@@ -7,7 +7,7 @@ import {
   greeting,
   workExperiences,
   skillsSection,
-  openSource,
+  //openSource,
   blogSection,
   talkSection,
   achievementSection
