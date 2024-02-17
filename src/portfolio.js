@@ -196,7 +196,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 
@@ -302,7 +302,7 @@ const achievementSection = {
       },
     ]
    },
-    {
+    /*{
       title: "Optimization Outstanding Technical Achievement Award",
       subtitle: "",
       image: require("./assets/images/IBM_Research.png"),
@@ -314,7 +314,7 @@ const achievementSection = {
         url: ""
       },
     ]
-   },
+   },*/
    {
       title: "Published Papers",
       subtitle: "",
