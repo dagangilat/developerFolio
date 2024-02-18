@@ -384,7 +384,7 @@ const contactInfo = {
   subtitle: '',
   number: '+972-54-697-6523',
   email_address: 'dagan.gilat0@gmail.com',
-  display: false
+  display: true
 };
 
 
