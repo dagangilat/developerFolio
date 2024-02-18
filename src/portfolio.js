@@ -123,7 +123,7 @@ const educationInfo = {
     },
     {
       schoolName: "Technion, Israel Institute of Technology",
-      logo: require("./assets/images/techniondLogo.png"),
+      logo: require("./assets/images/technionLogo.jpg"),
       subHeader: "Master of Science in Operations Research",
       duration: "1994",
       desc: "Thesis Adaptable Algorithms for the Estimation of Queuing Network Performance",
@@ -133,7 +133,7 @@ const educationInfo = {
     },
     {
       schoolName: "Technion, Israel Institute of Technology",
-      logo: require("./assets/images/techniondLogo.png"),
+      logo: require("./assets/images/technionLogo.jpg"),
       subHeader: "B.A in Computer Science",
       duration: "1988",
       desc: "",
