@@ -113,7 +113,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Technion, Israel Institute of Technology",
-      logo: require("./assets/images/technionLogo.png"),
+      logo: require("./assets/images/technionLogo.jpg"),
       subHeader: "Ph.D in Systems Engineering",
       duration: "2003",
       desc: "Thesis: A Framework for Simulation of Discrete Events Systems Based on the Object-Process Methodology",
