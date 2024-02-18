@@ -112,23 +112,34 @@ const educationInfo = {
   display: false, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "Technion, Israel Institute of Technology",
+      logo: require("./assets/images/technionLogo.png"),
+      subHeader: "Ph.D in Systems Engineering",
+      duration: "2003",
+      desc: "Thesis: A Framework for Simulation of Discrete Events Systems Based on the Object-Process Methodology",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Under the supervision of Prof. Dov Dori"
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Technion, Israel Institute of Technology",
+      logo: require("./assets/images/techniondLogo.png"),
+      subHeader: "Master of Science in Operations Research",
+      duration: "1994",
+      desc: "Thesis Adaptable Algorithms for the Estimation of Queuing Network Performance",
+      descBullets: [
+        "Under the supervision of Prof. Reuven Rubinstein"
+      ]
+    },
+    {
+      schoolName: "Technion, Israel Institute of Technology",
+      logo: require("./assets/images/techniondLogo.png"),
+      subHeader: "B.A in Computer Science",
+      duration: "1988",
+      desc: "",
+      descBullets: [
+        "Cum Laude"
+      ]
     }
   ]
 };
