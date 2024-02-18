@@ -8,7 +8,7 @@ import {
   greeting,
   workExperiences,
   skillsSection,
-  educationSection,
+  educationInfo,
   openSource,
   blogSection,
   talkSection,
@@ -20,7 +20,7 @@ function Header() {
   const viewExperience = workExperiences.display;
   const viewOpenSource = openSource.display;
   const viewSkills = skillsSection.display;
-  const viewEducation = educationSection.display;
+  const viewEducation = educationInfo.display;
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
   const viewTalks = talkSection.display;
