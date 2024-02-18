@@ -125,7 +125,7 @@ const educationInfo = {
       logo: require("./assets/images/technionLogo.jpg"),
       subHeader: "Master of Science in Operations Research",
       duration: "1994",
-      desc: "Thesis Adaptable Algorithms for the Estimation of Queuing Network Performance",
+      desc: "Thesis: Adaptable Algorithms for the Estimation of Queuing Network Performance",
       descBullets: [
         "Under the supervision of Prof. Reuven Rubinstein"
       ]
