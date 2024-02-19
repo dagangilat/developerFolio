@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* Change this file to get your personal Portfolio */
 
 // To change portfolio colors globally go to the  _globalColor.scss file
@@ -107,12 +108,13 @@ https://fontawesome.com/icons?d=gallery */
 };
 
 // Education Section
+const technionLogo = require("./assets/images/technionLogo.svg")
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
       schoolName: "Technion, Israel Institute of Technology",
-      logo: require("./assets/images/technionLogo.jpg"),
+      logo: require({technionLogo}),
       subHeader: "Ph.D in Systems Engineering",
       duration: "2003",
       desc: "Thesis: A Framework for Simulation of Discrete Events Systems Based on the Object-Process Methodology",
@@ -122,7 +124,7 @@ const educationInfo = {
     },
     {
       schoolName: "Technion, Israel Institute of Technology",
-      logo: require("./assets/images/technionLogo.jpg"),
+      logo: require({technionLogo}),
       subHeader: "Master of Science in Operations Research",
       duration: "1994",
       desc: "Thesis: Adaptable Algorithms for the Estimation of Queuing Network Performance",
@@ -132,7 +134,7 @@ const educationInfo = {
     },
     {
       schoolName: "Technion, Israel Institute of Technology",
-      logo: require("./assets/images/technionLogo.jpg"),
+      logo: require({technionLogo}),
       subHeader: "B.A in Computer Science",
       duration: "1988",
       desc: "",
