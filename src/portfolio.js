@@ -216,9 +216,6 @@ const workExperiences = {
       date: "2020 – Present",
       desc: "Plantago, Freelancer",
       descBullets: [
-        "Advanced Microservices Research & Development",
-        "Technologies used: AWS Lambda, S3, gRPC",
-        "Languages used: Go, Python, Rust"
       ]
     },
     {
@@ -228,11 +225,6 @@ const workExperiences = {
       date: "2018-2020",
       desc: "HyperMesh - Co-Founder & Chief Architect",
       descBullets: [
-        "Crowdsourced Telco",
-        "Building infrastructure for decentralized telecom networks",
-        "Architected and developed HyperMesh backend, including PKI infrastructure, Network architecture, and network functions",
-        "Technologies used: AWS Lambda, S3, Redis, RDS, Jupyter, RADIUS",
-        "Languages used: Python, Elixir, Rust"
       ]
     },
     {
@@ -242,11 +234,6 @@ const workExperiences = {
       date: "2015-2017",
       desc: "Toga Networks - CTO, Machine Learning",
       descBullets: [
-        "Lead teams of machine learning and cloud researchers and developers, locally and in China",
-        "Research and development of Next Generation Cloud Scaling and Scheduling Systems, Leveraging Reinforcement Learning and Deep Learning on top of Kubernetes and OpenStack",
-        "Technologies used: Python, Jupyter, Spark, Keras, PyTorch and TensorFlow",
-        "Lead research and development of AutoScaler - Machine Learning based Auto Scaling Which was delivered to Huawei FusionSphere product",
-        "Lead the design and development of scheduling solutions for Cloud based big data processing which was delivered to Huawei FusionInsight product"
       ]
     },
     {
@@ -256,9 +243,6 @@ const workExperiences = {
       date: "2009 -2014",
       desc: "Senior Manager, Cloud Platforms, IBM Research",
       descBullets: [
-        "Managed four groups which are focused on Research & Development of Cloud Infrastructure and Platforms in the areas of Virtualization, Systems Architecture, Systems Management, Storage and Networking",
-        "Outstanding accomplishments for contributions to products in the cloud infrastructure area - IBM Cloud Manager, IBM Cloud Orchestrator, IBM Cloud OpenStack Services, IBM Real Time Compression, leading to revenue of 100s M$",
-        "Lead global research strategy and manage research & development of Cloud Computing infrastructure & platforms (IaaS/PaaS layers)"
       ]
     },
     {
@@ -268,11 +252,6 @@ const workExperiences = {
       date: "2001-2009",
       desc: "Staff Member, Manager & Senior Manager, Business Transformation & Optimization, IBM Research",
       descBullets: [
-        "Outstanding accomplishment for substantial contributions to Business Optimization area, leading to revenue of about 60 M$",
-        "Delivered technologies to IBM products, services, solutions and direct customer engagements",
-        "Developed Call Center Scheduler (SWOPS), which is deployed in 7 contact centers, and the Airline, Crew Pairing System, which is successfully deployed in El-Al Israel Airlines",
-        "Designed, developed and deployed IBM Massive Collection System (MCS) for Telco Revenue Assurance (Airtel and IDEA Telco)",
-        "Designed, developed and deployed IBM Container Logistics Optimization for Shipping Companies (Zim Shipping, Hanjin shipping, Hapag Lloyd and Maersk shipping companies)"
       ]
     },
   ]
