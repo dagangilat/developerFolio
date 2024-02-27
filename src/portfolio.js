@@ -224,7 +224,7 @@ const workExperiences = {
     {
       role: "Co-Founder",
       company: "HyperMesh",
-      companylogo: require("./assets/images/hyperMeshLogo.png"),
+      companylogo: require("./assets/images/hypermeshLogo.png"),
       date: "May 2017 – May 2018",
       desc: "HyperMesh, Co-Founder",
     },
