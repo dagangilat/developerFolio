@@ -171,35 +171,63 @@ const techStack = {
 };
 
 // Work experience section
+/*
+Freelancer
+Plantago · Full-time
+2020 - Present · 4 yrs 2
+Node.js, Python (Programming Language) and +4 skills
 
+Co-Founder
+HyperMesh
+2018 - 2020 · 2 yrs
+Berlin Area, Germany
+Infrastructure for decentralized, Crowdsourced telecom networks
+Docker Products and Kubernetes
+
+CTO, Machine Learning
+Toga NetworksToga Networks
+2015 - 2017 · 2 yrs
+Docker Products and Kubernetes
+
+IBM
+14 yrs 1 mo14 yrs 1 mo
+Haifa Area, Israel
+Senior Manager, Cloud Platforms
+2009 - 2015 · 6 yrs
+Kubernetes
+Manager & Senior Manager, Business Transformation & Optimization
+2003 - 2009 · 6 yrs
+Research Staff Member
+2001 - 2003 · 2 yrs
+IBM Research Haifa, Israel
+
+Founder, Logline
+Logline · Full-time
+1994 - 2001 · 7 yrs
+Haifa, Israel
+*/
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Freelancer",
+      company: "Plantago",
+      companylogo: require("./assets/images/plantagoLogo.png"),
+      date: "2020 – Present",
+      desc: "Plantago, Freelancer",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Advanced Microservices Research & Development",
+        "Technologies used: AWS Lambda, S3, gRPC",
+        "Languages used: Go, Python, Rust"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      role: "Co-Founder",
+      company: "HyperMesh",
+      companylogo: require("./assets/images/hyperMeshLogo.png"),
       date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "HyperMesh, Co-Founder",
     },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
   ]
 };
 
