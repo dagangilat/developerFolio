@@ -353,7 +353,7 @@ Inference of Reactive Rules from Dependency Models. RuleML 2003: 49-64
 */
 
 const achievementSection = {
-  title: "Awards, Patents & Papers 🏆 ",
+  title: "Patents & Papers 🏆 ",
   subtitle: "",
   achievementsCards: [
     {
