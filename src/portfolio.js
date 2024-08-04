@@ -210,11 +210,11 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Freelancer",
+      role: "Entrepreneur",
       company: "Plantago",
       companylogo: require("./assets/images/plantagoLogo.png"),
       date: "2020 – Present",
-      desc: "Plantago, Freelancer",
+      desc: "Plantago, Entrepreneur",
       descBullets: [
       ]
     },
