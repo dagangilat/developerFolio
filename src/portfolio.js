@@ -28,7 +28,7 @@ const greeting = {
     "Researcher, Architect, Software Developer 🚀 "
   ),
   resumeLink:
-    "https://drive.google.com/drive/folders/18-npvKxZFRC00cvcfoQrlOF4SWEdcWlt?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1UMYP10RWuaqUGIIaSRtMp-Vnfo0dC3g2/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
