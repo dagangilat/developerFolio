@@ -212,7 +212,7 @@ const workExperiences = {
     {
       role: "Architect",
       company: "Stealth Startup",
-      companylogo: require("./assets/images/stealth-logo.jpeg.png"),
+      companylogo: require("./assets/images/stealth-logo.jpeg"),
       date: "2025 – Present",
       desc: "Architect",
       descBullets: [
