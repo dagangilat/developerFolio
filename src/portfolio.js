@@ -210,6 +210,15 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Architect",
+      company: "Stealth Startup",
+      companylogo: require("./assets/images/stealth-logo.jpeg.png"),
+      date: "2025 – Present",
+      desc: "Architect",
+      descBullets: [
+      ]
+    },
+    {
       role: "Entrepreneur",
       company: "Plantago",
       companylogo: require("./assets/images/plantagoLogo.png"),
