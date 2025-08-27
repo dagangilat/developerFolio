@@ -52,8 +52,8 @@ const skillsSection = {
   subTitle: "",
   skills: [
     emoji("⚡ Experienced hands-on R&D leader."),
-    emoji("⚡ Developed scalable & resilient systems, employing cutting edge technologies in Distributed Systems, Cloud, and Machine Learning"),
-    emoji("⚡ Special interest and focus in Software architecture and patterns, and the Go and Rust programming languages.")
+    emoji("⚡ Developed scalable & resilient systems, employing cutting edge technologies in Distributed Systems, Cloud, and Gen. AI"),
+    emoji("⚡ Special interest and focus in Software architecture and patterns, and the Rust & Go programming languages.")
   ],
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
