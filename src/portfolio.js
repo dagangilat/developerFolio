@@ -222,7 +222,7 @@ const workExperiences = {
       role: "Entrepreneur",
       company: "Plantago",
       companylogo: require("./assets/images/plantagoLogo.png"),
-      date: "2020 – Present",
+      date: "2020 – 2025",
       desc: "Plantago, Entrepreneur",
       descBullets: [
       ]
