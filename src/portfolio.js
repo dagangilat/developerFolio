@@ -219,7 +219,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Entrepreneur",
+      role: "Founder",
       company: "Plantago",
       companylogo: require("./assets/images/plantagoLogo.png"),
       date: "2020 – 2025",
