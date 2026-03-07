@@ -399,7 +399,7 @@ const blogSection = {
   title: "Blogs",
   subtitle:
     "",
-  displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
+  displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
       url: "",
