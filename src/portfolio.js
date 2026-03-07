@@ -223,7 +223,7 @@ const workExperiences = {
       company: "Plantago",
       companylogo: require("./assets/images/plantagoLogo.png"),
       date: "2020 – 2025",
-      desc: "Plantago, Entrepreneur",
+      desc: "Plantago, Founder",
       descBullets: [
       ]
     },
@@ -232,7 +232,7 @@ const workExperiences = {
       company: "HyperMesh",
       companylogo: require("./assets/images/hypermeshLogo.png"),
       date: "2018-2020",
-      desc: "HyperMesh - Co-Founder & Chief Architect",
+      desc: "HyperMesh, Co-Founder & Chief Architect",
       descBullets: [
       ]
     },
@@ -241,7 +241,7 @@ const workExperiences = {
       company: "Toga Networks",
       companylogo: require("./assets/images/toganetworksLogo.png"),
       date: "2015-2017",
-      desc: "Toga Networks - CTO, Machine Learning",
+      desc: "Toga Networks, CTO, Machine Learning",
       descBullets: [
       ]
     },
