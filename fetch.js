@@ -2,7 +2,15 @@
 const https = require('https');
 const fs = require('fs');
 
-const githubUser = process.env.GITHUB_USERNAME || 'your-github-username';
+process = require("process");
+require("dotenv").config();
+
+// const GITHUB_TOKEN = process.env.REACT_APP_GITHUB_TOKEN;
+// const GITHUB_USERNAME = process.env.GITHUB_USERNAME;
+const USE_GITHUB_DATA = process.env.USE_GITHUB_DATA;
+const MEDIUM_USERNAME = process.env.MEDIUM_USERNAME;
+
+const githubUser = process.env.GITHUB_USERNAME || 'dagangilat';
 const options = {
   hostname: 'api.github.com',
   path: `/users/${githubUser}`,
