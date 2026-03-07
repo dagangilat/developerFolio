@@ -1,5 +1,15 @@
 /* eslint-disable no-global-assign */
 /* eslint-disable no-undef */
+// fetch.js — change the non-200 handling to fall back instead of throwing
+if (res.statusCode !== 200) {
+  console.warn(`Medium fetch returned status ${res.statusCode}. Skipping Medium data.`);
+  // ensure public/blogs.json exists so the app can build
+  const fallback = JSON.stringify([]);
+  require('fs').writeFileSync('public/blogs.json', fallback);
+  res.resume(); // consume response
+  return;
+}
+
 fs = require("fs");
 const https = require("https");
 process = require("process");
